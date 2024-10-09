@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/images/asset 3.png",
+    "title": "UI/UX Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  },
+  {
+    "id": 2,
+    "image": "/images/asset 4.png",
+    "title": "Digital Marketing",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  },
+  {
+    "id": 3,
+    "image": "/images/asset 5.png",
+    "title": "Web Development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  }
+]

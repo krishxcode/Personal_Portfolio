@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "title": "UI/UX Designer",
+      "time": "2019-2020",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+      "knowledge": "50%"
+  },
+  {
+      "id": 2,
+      "title": "Web Designer",
+      "time": "2020-2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+      "knowledge": "60%"
+  },
+  {
+      "id": 3,
+      "title": "Web Developer",
+      "time": "2021-2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+      "knowledge": "70%"
+  },
+  {
+      "id": 4,
+      "title": "Graphic Designer",
+      "time": "2022-2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+      "knowledge": "80%"
+  }
+]
